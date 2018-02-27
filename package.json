@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/aannet/poc-d3-timeseries/issues"
   },
-  "homepage": "https://github.com/aannet/poc-d3-timeseries#readme"
+  "homepage": "https://github.com/aannet/poc-d3-timeseries#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^5.0.0"
+  }
 }
