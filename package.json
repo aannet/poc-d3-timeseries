@@ -1,0 +1,22 @@
+{
+  "name": "poc",
+  "version": "0.0.1",
+  "description": "POC D3JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aannet/poc-d3-timeseries.git"
+  },
+  "keywords": [
+    "d3js"
+  ],
+  "author": "Alec ANNET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aannet/poc-d3-timeseries/issues"
+  },
+  "homepage": "https://github.com/aannet/poc-d3-timeseries#readme"
+}
