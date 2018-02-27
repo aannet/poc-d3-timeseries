@@ -23,6 +23,7 @@
     "d3": "^4.13.0"
   },
   "devDependencies": {
-    "@types/d3": "^5.0.0"
+    "@types/d3": "^5.0.0",
+    "requirejs": "2.3.5"
   }
 }
